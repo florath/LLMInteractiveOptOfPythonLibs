@@ -1,4 +1,4 @@
-# Source Code for the paper "Human-Language Model Collaboration for Source Code Optimization: Some Practical Spotlights"
+# Source Code for the paper "LLM Interactive Optimization of Open Source Python Libraries - Case Studies and Generalization"
 
 This repository contains the source code for the paper "Human-Language
 Model Collaboration for Source Code Optimization: Some Practical
